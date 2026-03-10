@@ -84,7 +84,8 @@ Example output includes:
 - TDS level (ppm)
 - Temperature
 
-![LCD Output](images/lcd_output.jpg)
+![op1](https://github.com/user-attachments/assets/eb611cf1-84a8-4ecd-b788-eafc1dfebf82)
+
 
 ---
 
@@ -94,7 +95,8 @@ The collected data is transmitted to the **IoT Beginner platform**, where users 
 
 The dashboard displays sensor values and updates them in real time.
 
-![IoT Dashboard](images/iot_dashboard.jpg)
+<img width="660" height="442" alt="Screenshot 2026-03-04 161410" src="https://github.com/user-attachments/assets/366e0d88-1fbc-467f-98ba-ace3b3332198" />
+
 
 ---
 
